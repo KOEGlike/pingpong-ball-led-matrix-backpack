@@ -3,6 +3,8 @@
 
 I'm again showing how good I am at naming things.
 
+![wall mounted matric](https://hc-cdn.hel1.your-objectstorage.com/s/v3/e008183fc50a0189_pxl_20251226_085102902-ezgif.com-video-to-webp-converter-1.webp)
+
 ## What is it?
 
 This is a 5x10 LED matrix with pingpong ball diffusers that is wearable on your back.
