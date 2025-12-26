@@ -6,6 +6,6 @@ It is powered by a xioa esp32c3, ws2812b LEDs and a usb power bank.
 
 I will 3d print it in 4 segments, here is one of the segments
 
-![irl vudeo](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d2a7ae7fdd3f1cba_pxl_20251226_085102902-ezgif.com-video-to-webp-converter.webp)
+![irl vudeo](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0bfe4e0d2cf6d758_l.webp)
 
 ![segment](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c16281640566f2ed8a84524772920be23ba2801a_dsf.webp)
