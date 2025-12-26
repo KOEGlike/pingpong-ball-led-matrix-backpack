@@ -32,3 +32,7 @@ spherical objects in a material-efficient way in a grid pattern. It is called an
 I use WLED to control the matrix.
 
 Some day I may extend the matrix to be the originally planned 10x10 variant
+
+## Me in LA at supercon
+
+![me](https://hc-cdn.hel1.your-objectstorage.com/s/v3/09bb14006d6e19b4_pxl_20251102_015735810.jpg)
